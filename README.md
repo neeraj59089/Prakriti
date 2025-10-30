@@ -87,9 +87,10 @@ Before setup, ensure you have:
 
 1. **Clone & Navigate**
    ```bash
-   git clone https://github.com/neeraj59089/---Prakriti-Wellness-Management.git
-   cd Prakriti-Wellness-Management
+   git clone https://github.com/neeraj59089/Prakriti.git
+   cd Prakriti
    ```
+
 
 2. **Install Dependencies**
    ```bash
